@@ -1,1 +1,1 @@
-{"version":"1.0.5", "notes":"Weapon, Weapon Component, ESX Support, Discord Logging, NEW CONFIG"}
+{"version":"1.0.5", "notes":"Weapon, Weapon Component, ESX Support, NEW CONFIG"}
